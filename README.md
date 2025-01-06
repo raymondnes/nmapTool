@@ -52,18 +52,23 @@ Follow these steps to download and run the script:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/nmap-utility-tool.git
-   cd nmap-utility-tool
+   git clone https://github.com/raymondnes/nmapTool.git
+   cd nmapTool
    ```
 
 2. Make the script executable:
    ```bash
-   chmod +x nmaptool.sh
+   chmod +x nmapTool.sh
    ```
 
 3. Run the script:
    ```bash
-   ./nmaptool.sh
+   ./nmapTool.sh
+   ```
+
+   ## OR
+   ```bash
+   bash nmapTool.sh
    ```
 
 ---
